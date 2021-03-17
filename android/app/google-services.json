@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "236520175070",
+    "project_id": "diesel-studio-307013",
+    "storage_bucket": "diesel-studio-307013.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236520175070:android:07e6d621f7e1a7b2bc994f",
+        "android_client_info": {
+          "package_name": "com.google_vision_api_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236520175070-eok3knmsagsq986867hhisleiufbbbh4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0hUeaChXTE8LfIp4Dx-pFLTDCsWVXwxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236520175070-eok3knmsagsq986867hhisleiufbbbh4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
